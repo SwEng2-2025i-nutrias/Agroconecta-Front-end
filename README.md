@@ -9,6 +9,10 @@ Esta aplicación web facilita la comunicación y comercialización entre product
 - **Conexión directa**: Los agricultores pueden publicar sus productos con información detallada sobre técnicas de cultivo, insumos utilizados y ubicación
 - **Comunicación en tiempo real**: Sistema de mensajería integrado para negociación directa de precios y coordinación
 
+## Post en MEDIUM
+
+[Building AgroConecta: A Modular SOFEA System for Direct Agricultural Trade](https://medium.com/@samvargasca/building-agroconecta-a-modular-sofea-system-for-direct-agricultural-trade-1a7784baa38c)
+
 ## 🚀 Características Principales
 
 ### Para Agricultores
